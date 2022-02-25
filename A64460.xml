@@ -1,0 +1,239 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Testimony to the Lord's power and blessed appearance in and amongst children wherein is expressed the great love of God to them ...</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 28 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A64460</idno>
+            <idno type="STC">Wing T822</idno>
+            <idno type="STC">ESTC R33915</idno>
+            <idno type="EEBO-CITATION">13615701</idno>
+            <idno type="OCLC">ocm 13615701</idno>
+            <idno type="VID">100778</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A64460)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 100778)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1052:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Testimony to the Lord's power and blessed appearance in and amongst children wherein is expressed the great love of God to them ...</title>
+               </titleStmt>
+               <extent>15 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1679.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>Imperfect: pages stained.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Apologetic works.</term>
+               <term>Theology, Doctrinal.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-02</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-02</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:100778:1" rendition="simple:additions"/>
+            <p>A TESTIMONY TO THE Lord's Power AND Bleſſed Appearance In and Amongſt CHILDREN:</p>
+            <p>Wherein is expreſſed the great Love of God to them, who, as Young and Tender, have taſted of his Good WORD and Heavenly LIFE.</p>
+            <p>Publiſhed for the Uſe of Friends, and to prevent vari<g ref="char:EOLhyphen"/>ous Reports, that they may have a true Account in the follow<g ref="char:EOLhyphen"/>ing Teſtimonies, given forth by Faithful Witneſſes.</p>
+            <p>Printed in the Year 1679.</p>
+         </div>
+      </front>
+      <body>
+         <div type="testimony">
+            <pb facs="tcp:100778:2"/>
+            <pb n="3" facs="tcp:100778:2"/>
+            <head>A <hi>Teſtimony</hi> to the Everlaſting Power of GOD, (which in Ages paſt hath wonderfully appeared in Sone and Daughters) which hath been Deſpiſed, Mocked and Evil ſpoken of by the Wiſdom which is from below, that ſees it not, nor can know it; which heavenly Power hath appeared in our Days, and hath wrought wonder<g ref="char:EOLhyphen"/>fully in and upon the Hearts of many, even to the amaze<g ref="char:EOLhyphen"/>ment of many, and it hath met with the ſame Spirit of Oppoſition now as formerly calling it <hi>Madneſs, Witch<g ref="char:EOLhyphen"/>craft</hi> and <hi>Diabolical Deluſion.</hi> It was propheſied of Old, <hi>That the Lord would work a Work, which ſome ſhould not believe if it were told them:</hi> This in part hath a Remnant ſeen in theſe Dayes, and even of late, as hereafter is mentioned.</head>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <p>UPon the 4th day of the Moneth called <hi>June</hi> 1679. at a Meeting in the Town called <hi>Waltham-Abbey</hi> in <hi>Eſſex</hi> of the People call'd <hi>Quakers,</hi> where was preſent about Forty or Fifty Young Boyes and Maidens; God's heavenly Power brake forth in ſome Maids and Young Girls, it begun with Three or Four at firſt, broke them into Tears and M<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ting of Heart, continued ſo a ſmall time, then it reached two or three of the Younger Boys, which melted them into Tears; and in a very ſmall time reached all the Boyes and Young Girls, many of them being but about Eight or Nine and Ten Years old, the Power was ſo mighty that they were all broken into Tears, ſome into Trembling, and at laſt it reached unto the Elder Peo<g ref="char:EOLhyphen"/>ple, ſo that all in the Meeting was broken by the Power into Tears and Melting, which did continue for about one Hour, until the Meeting was ended: This I was an Eye and Ear Wit<g ref="char:EOLhyphen"/>neſs of, and felt God's Power wonderfully, to the gladding of
+<pb n="4" facs="tcp:100778:3"/>my Heart, and anſwering the Breathings of my Soul, which I have many a Time had in a Travail to the Lord, for the Chil<g ref="char:EOLhyphen"/>dren, <hi>That the Lord might viſit them in their Young Dayes:</hi> af<g ref="char:EOLhyphen"/>ter which Meeting I had this Hope and Faith raiſed up in my Soul, which to ſome I did declare, that God had a Work to work with ſome of theſe Children, which he would bring forth e're long. And ſeveral ſignal Teſtimonies hereof hath the Lord brought forth ſince, as hereafter appeareth from other Eye and Ear Witneſſes thereof. And although Men in the Fallen Wiſdom ſee not, underſtand not, nor believe that this is from the mighty Power of God, yet there is a Remnant gathered by this Power, and have Experience of the Operation thereof, how it hath wrought in them, even in ſome when they were Young; theſe are God's Witneſſes that this is his Work; yea, it is ſealed to them by his Spirit: And let all the <hi>Mockers</hi> know, <hi>God's Work</hi> in our Day will be too heavy for them; and except they Repent, will be a Stone of ſtumbling, upon which they will fall and be broken to pieces; yea, thoſe that ſlight and neglect the Day of their Viſitation, until it be too late, this ſame Power they ſtumble at, will fall upon them, and Grind them to <hi>Powder.</hi>
+                  </p>
+                  <p>
+                     <hi>This is from one who Travails and Breaths to the Lord, that his E<g ref="char:EOLhyphen"/>verlaſting Power may be more and more revealed in the Hearts of the Sons and Daughters of men, that many may be gathered cut of the Fall, unto</hi> Chriſt Jeſus <hi>that never fell; that they may feel themſelves growing up in his heavenly Life as living Members of him the bleſſed Head, then will they come to underſtand that theſe Things are from the Lord, when the inward Eye and Ear is opened, they will with me bear their Teſtimony,</hi> That theſe Things are of the Lord.</p>
+                  <closer>
+                     <signed>G. LAWRY.</signed>
+                     <date>The 6th day of the 5th Moneth 1679.</date>
+                  </closer>
+               </body>
+            </floatingText>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <pb n="5" facs="tcp:100778:3"/>
+                  <head>A Copy of a <hi>Letter</hi> to <hi>A. P.</hi>
+                  </head>
+                  <p>DEar <hi>A. P.</hi> &amp;c. I cannot omit but certifie ſome-what of our laſt Night's Exerciſe in our Meeting, in our Family, how mightily the Power of the Lord appeared amongſt us; firſt breaking in upon Two Young Lads, and ſo paſſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d through the reſt, with ſuch Dread and Power, that there was an exceeding great ſhaking and tenderneſs amongſt them, rather more then on that notable fourth day; ſo that it was not without diffi<g ref="char:EOLhyphen"/>culty to bring ſeveral of them into ſtillneſs again; but at the laſt, it being late, they went to Bed, and there many of them lay Crying, Weeping and Lamenting for two or three Hours together: Others in a diverſe Exerciſe; ſome who had been ſober, and formerly good conditioned, meek and gentle, the Power was meek with them, and overcame them in a moſt bleſſed manner; ſo that they were filled with heavenly Praiſes, uttering ſuch words as ſweet-conditioned Souls are wont to do when they are ſealed by the Lord's Spirit: Others moſt bitterly Lamenting their Conditions, eſpecially one of the afore<g ref="char:EOLhyphen"/>ſaid Lads for about three Hours together in his Bed, ex<g ref="char:EOLhyphen"/>ceeded and cryed out for Mercy, ſo Dreadfully, that I never (as I remember) heard a more Terrible Exerciſe from ſmall or great; when I told him, how patiently his Bed-fellow lay beſides him; he anſwered, <hi>The reaſon was, becauſe he had not been ſo Wicked as himſelf had been.</hi> If I could but write down the Speeches of the poor Children, under their various Exer<g ref="char:EOLhyphen"/>ciſes, I may well ſay, it would be as a wonder<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ul T<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ing, and ſuch a Leſſon as many Hearts would be broken to read; but what ſhall I ſay, but admire the Love and Mercy of the Lord in theſe Things! <hi>C.</hi> was bleſſedly diſpoſed on, and was truly refreſhed in his Soul; and with him and ſeveral others, there was a ſecret inward Harmony from a feeling Senſe of God's pure Viſitation; and ſome more dreadfully ſeized on, and broken in upon by the Authority of the Power, ſo that it was admirable to behold
+<pb n="6" facs="tcp:100778:4"/>the variety of the Exerciſes ſuitable to the ſubject, matter, con<g ref="char:EOLhyphen"/>dition and diſpoſition of every Child.</p>
+                  <p>This is a hint to thee of the matter, who I know dearly loves us, and will be refreſhed at any time to hear of our Wellfare. So leaving the reſt to <hi>W. C.</hi> who was with us in the Meeting, if thou pleaſeſt to enquire of him, with mine and my Wife's dear Love to thee and thy dear Wife, &amp;c. I reſt, thy dearly loving Brother in the Fellowſhip of God's Truth</p>
+                  <closer>
+                     <signed>C. TAYLOR.</signed>
+                     <dateline>
+                        <hi>Waltham-Abbey,</hi> 
+                        <date>the 24th of the 4th Moneth, 1679.</date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <head>A Copy of a <hi>Letter</hi> to <hi>T. T.</hi>
+                  </head>
+                  <p>DEar Brother, &amp;c. the 24th of the 4th Moneth 79. we ſit<g ref="char:EOLhyphen"/>ting towards Evening with the Family and Children, be<g ref="char:EOLhyphen"/>ing in all about Fifty, the Lords ſweet and tender-heart-break<g ref="char:EOLhyphen"/>ing Power was with us in a ſhowr of abundance of Love, Mercy and Gentleneſs thorowout, which cauſed abundance of mel<g ref="char:EOLhyphen"/>ting Tears, and great Soul-gladneſs, like unto the love and ten<g ref="char:EOLhyphen"/>derneſs of a moſt tender Father, in Forgiveneſs and Mercy af<g ref="char:EOLhyphen"/>ter Correction and Submiſſion under the ſame, I mean eſpeci<g ref="char:EOLhyphen"/>ally as to ſuch who had been more ſtubborn: And the more mild and gentle-conditioned were under the pure ſenſe of the ſame Power in pure Love and ſweet tenderneſs, with an enereaſe of what had been poured out before at the other Meetings: So that the whole Meeting &amp; Family at that time was, as I may tru<g ref="char:EOLhyphen"/>ly ſay, over-powered with Divine comfort, in the ſenſe of Gods pure love; nothing elſe from God declared to them, but that they ſhould admire his ſweet Love and Mercy, and how good the Lord was, how gentle, kind, and moſt tender over them, together with the great admiring of the ſame Love, being fill<g ref="char:EOLhyphen"/>ed with it, ſo that the Heavenly Flame of it drown'd all manner of Sorrow at that time, and conquered all ſenſe of Terror and Judgment, nothing but Love at that time and Mercy appearing
+<pb n="7" facs="tcp:100778:4"/>and overcoming all, ſo that it was wonderful to behold the great Gravity and Senſe of the Children in ſuch an exerciſe, there being ſuch a general Heart-breaking Power overpower<g ref="char:EOLhyphen"/>ing them in ſuch a manner with Gods bleſſing throughout de<g ref="char:EOLhyphen"/>clared amongſt them all. And now I may ſay, that there is not one who hath been of the worſt Temper and Diſpoſition here at preſent, but in pleading with them about their conditi<g ref="char:EOLhyphen"/>ons in the ſenſe of Gods Truth, have been broken into a ſenſible acknowledgment with weeping Eyes, ſo far hath the moſt bleſ<g ref="char:EOLhyphen"/>ſed Power of the living God appeared in this place, a Day much groaned and longed for to ſee, Glory to the Lord forever: And certainly the living God will beſtow more of his Heaven<g ref="char:EOLhyphen"/>ly Bleſſings upon us, by the ſtill pouring forth of his heavenly Spirit, as we are dear and tender before him and of his Glory, <hi>Amen.</hi>
+                  </p>
+                  <p>So dear Brother, admire with us the excellency of Gods pure love, and Pray with us, that we all may be kept in the ſweet and humble acknowledgment of all his moſt tender Mercies: And oh! that we may never give the leaſt occaſion, whereby the Lord may with-draw the ſenſe of ſuch great Love and Mercy from us, <hi>Amen, Amen.</hi>
+                  </p>
+                  <p>So dear Brother, if I could tell thee I would, how full of ſweet Melody my Soul is at preſent from the ſenſe of this his pure goodneſs, and how full of Joy and Gladneſs, and Heaven<g ref="char:EOLhyphen"/>ly Praiſes: Oh! the glorious Heavenly Power of the Lord God, how, when he pleaſes, it moſt wonderfully overcomes the Hearts and Souls of his beloved and tender Children! Oh dear Brother! feel, feel what my Soul can admire, but my Tongue far unable to utter, neither lawful for any man to do, in this Earthly Tabernacle, in which we reach unto thee dearly, and to thy dear Wife.</p>
+                  <closer>
+                     <signed>
+                        <hi>And I am thy dear Brother, C.</hi> Taylor.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>The following Teſtimonies are from the Teachers of the Children.</p>
+            <floatingText xml:lang="eng" type="body_of_testimony">
+               <body>
+                  <pb n="8" facs="tcp:100778:5"/>
+                  <head>A Teſtimony concerning the Goodneſs and Mercy of God our Heavenly Father in Chriſt Jeſus, manifeſted to the Children of our Family.</head>
+                  <p>IN the ſenſe of the great Love and tender Mercies of the Lord God, who hath often graciouſly viſited and livingly refreſh<g ref="char:EOLhyphen"/>ed my Soul in our Evenings or Family's Meetings. I can and do bear this living and faithful Teſtimony, that at a Meeting the 23d of the 4th Moneth, called <hi>June,</hi> in the Evening the great God and Father of Mercy in a ſpecial and wonderful manner did abundantly pour forth of his good and holy Spirit of Life and Grace upon our Spirits through Jeſus Chriſt our Saviour, by which our Souls and Spirits were broken and melted before him, <hi>that Waters did guſh out of the Rocks, Springs were opened in dry places, and the very Depth did utter forth its Voice.</hi> I my ſelf was ſo overpowered and overcome with this Heavenly Life, Virtue and Power of God, that I did ſhake and tremble before him the mighty God of Heaven and Earth, who by his quick and powerful Voice <hi>ſhaketh the Wilderneſs, and breaketh the Ce<g ref="char:EOLhyphen"/>dars of</hi> Lebanon, <hi>at whoſe appearance and look the Earth Trem<g ref="char:EOLhyphen"/>bles, and at whoſe touch the Hills Smoke:</hi> This his great Love and powerful Operation upon my Heart and Spirit, being li<g ref="char:EOLhyphen"/>vingly refreſhed and comforted by it, <hi>did cauſe my Soul to mag<g ref="char:EOLhyphen"/>nifie the Lord, and my Spirit to rejoyce in God my Saviour, ſinging and making ſweet Melody in my Heart to the Lord,</hi> becauſe he did ſo graciouſly anſwer the deſire of our Souls, and powerful<g ref="char:EOLhyphen"/>ly break in upon the Hearts and Spirits of our Children, re<g ref="char:EOLhyphen"/>vealing himſelf in his great and Almighty Power among them, in and through which their Hearts were broken, their Spirits melted, and their Souls humbly bowed before him, as the a<g ref="char:EOLhyphen"/>lone ſearcher of the Heart, and tryer of the Reins, making known to every one his ſtate and condition and bringing to Light the hidden things of Darkneſs, and Counſels of the Hearts, which brought Sorrow and Trouble upon them, and
+<pb n="9" facs="tcp:100778:5"/>cauſed many of them to lament and cry out before the Lord. O<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>! who can appear and ſtand before the great Judge of the Quick and Dead, and not tremble at his Word, and not howl and cry as under the ſen<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e of his Judgments, till they be brought forth unto Victory, and the Soul comes to feel Redemption from Sin and Iniquity, through the Blood of Jeſus Chriſt.</p>
+                  <p>We are living Witneſſe of this great and powerful Work of the Almighty God in and amongſt the Children of our Family, by which he hath begun to work out their Salvation with Fear and Trembling, and to turn their minds from Darkneſs to Light, and from the Power of Satan unto himſelf, that they may re<g ref="char:EOLhyphen"/>ceive Forgiveneſs of Sins, and Inheritance amongſt them which are Sanctified by Faith in Chriſt Jeſus, to the great comfort and ſatisfaction of our Souls, who was thus graciouſly pleaſed to ap<g ref="char:EOLhyphen"/>pear and reveal himſelf in and among us, in his Heavenly Power and Authority; for my Soul hath often been poured out before the Lord on their behalf, <hi>that he would be pleaſed to reach unto their Hearts in his Heavenly quickning Power, that at length they might come to experience in themſelves what hath been often decla<g ref="char:EOLhyphen"/>red to them by others, that ſo in the ſenſe of this Heart-breaking Power they might learn to fear him their Creator in the dayes of their Youth, and their Souls might be engaged and conſtrained to love and obey him.</hi>
+                  </p>
+                  <p>Now the Lord hath heard our Cry, and anſwered our Deſire, he hath manifeſted his great Love, Favour and Mercy unto them and us, in the ſenſe whereof my Soul did and doth rejoyce, praiſing and glorifying his Name on their and our behalf; I can beat my witneſs in Truth, that the ſenſe of the goodneſs of the Lord did reſt upon my Spirit all the Night long, that after I a<g ref="char:EOLhyphen"/>waked my Eyes were full of Tears, and my Soul full of Holy Praiſes and Thanks-giving unto the Lord, becauſe of his tender Mercies and great Love towards us, breathing to the Lord, that he in his heavenly bleſſed Power would carry on his great Work of Regeneration, that he hath begun in and upon our Spirits, and to Bleſs us daily more and more with all Spiritual Bleſſings in Chriſt Jeſus, to the Praiſe and Glory of his Grace, wherein he hath made us accepted in the Beloved, according to the Riches
+<pb n="10" facs="tcp:100778:6"/>of his Grace, wherein he hath reached and abounded towards us, to declare unto our Souls that he has pardoned our Sins, and received us into his Fatherly love and care.</p>
+                  <p>What ſhall I ſay of the next following Meeting? I am not able to expreſs the ſweet refreſhing Life, Vertue and Power of our heavenly Father ariſing in us with healing under <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>is Wings. For as the Evening before, Fearfulneſs and Trembling came up<g ref="char:EOLhyphen"/>on many, and Horror had overwhelmed them, ſo now at this time the ſweet Love of a moſt tender and merciful Father, embracing their Spirits, did ſweetly and livingly refreſh and comfort their Souls; he healed the broken in Heart, and bound up their Wounds with the Balm of his heavenly Life, Vertue and Power, to the great comfort and ſatisfaction of our Souls, who partook of the Water of Life, that the Lord poured forth and made us to drink of; in and through which the Spirit of the Humble was quickned, and the Heart of the Contrite Ones revived.</p>
+                  <p>Now as the Lord in thoſe two Meetings hath appeared and re<g ref="char:EOLhyphen"/>vealed himſelf in and to us in a moſt ſpecial, gracious and power<g ref="char:EOLhyphen"/>ful manner, ſo his Sweet and Heart-melting Love and tender Mercies have hitherto followed us from Meeting to Meeting, ſenſibly and livingly, Refreſhing, Comforting, Stregthening and Confirming our Souls in his Love, Life, Vertue and Power, until this very Day, Praiſes, Praiſes, Praiſes, Glory and Ho<g ref="char:EOLhyphen"/>nour be to our God henceforth forever and forever.</p>
+                  <p>Moreover, it is ſealed to my Spirit by the holy Spirit of the Lord God, That <hi>we ſhall be Monuments of his Tender Mercies and Fatherly Love and Care</hi> (theſe are the words which livingly aroſe in my Heart, as we were lately gathered together, and ariſe again as I am writing this Teſtimony for God) I ſay, We ſhall be Monuments of his tender Mercies and fatherly Love and Care, if we keep Low, Humble, Meek and Tender be<g ref="char:EOLhyphen"/>fore him, he will inſtruct u<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, &amp; teach us in the Way which we ſhall go, and guide us with his Eyes, if we always Fear and Dread his holy powerful Name, which he hath revealed unto us, and pour<g ref="char:EOLhyphen"/>ed forth in and among us, as a good and precious Ointment, which cauſes us to be glad and to rejoyce in him, and to love him with all our Heart, Soul and Mind. In the Senſe of this
+<pb n="11" facs="tcp:100778:6"/>great Love and tender Mercies of the Lord God, my Soul deſires that I and every one of us, eſpecially our dear Children, that have with us taſted of the good Word and Power of the World to come; by which our Souls have been quickned and livingly refreſhed and comforted, may be always kept in a living ſenſe of the Loving kindneſs and Goodneſs of the Lord towards us, that ſo we may walk in Humility, Righteouſneſs and Holineſs before him, who hath reached to our Souls, and made us ſenſible of our inward State and Condition, and alſo of his Love, Grace and Mercy, that we may walk worthy of this his great Love, and Dread and Fear him in our Hearts, always having the Eyes of our Mind towards him, that in his Light, ſhining in our Souls, we may ſee even the leaſt appearance of Evil, and waiting in it we may receive Power to be kept and preſerved out of it, leſt by entring in or conſenting to it we ſhould offend the Lord, and cauſe him to with draw his ſweet Love, and to hide the Light and Favour of his Countenance from us, which would bring Sorrow, Anguiſh and Deſtruction upon our Souls. Oh! let us walk worthy of this great Love, let every one of us be circumſpect in our Lives and Converſations, that our Enemies, who Reproach and Blaſpheme the holy Name and powerful Work of the Lord God, who hath graciouſly and gloriouſly ap<g ref="char:EOLhyphen"/>peared in and among us, may behold our Holy, Innocent, Up<g ref="char:EOLhyphen"/>right Life and Converſation, and by it may be reached and con<g ref="char:EOLhyphen"/>vinced, that not the Devil, but the <hi>Lord God</hi> in his holy Life, Vertue, Power and Spirit hath appeared in and among us, by which he hath wrought a new Heart, and renewed a right and holy Spirit in us, the bleſſed Effect whereof is Holineſs and Righteouſneſs, which Work is not of Man, muchleſs of the De<g ref="char:EOLhyphen"/>vil, but of the Everlaſting, Pure and Holy <hi>God,</hi> who in his Everlaſting, Holy, Pure and Quickning Power hath begot us again into the heavenly Image of his dear Son Chriſt Jeſus, which conſiſts in Holineſs, and Righteouſneſs, and Truth, which the De<g ref="char:EOLhyphen"/>vil is out of.</p>
+                  <p>Having therefore received Grace and Mercy, Life, Vertue and Power of God, let us cleanſe our ſelves from all Filthineſs of the Fleſh and Spirit, perfecting Holineſs in the Fear of God, that
+<pb n="12" facs="tcp:100778:7"/>we may ſhew forth the heavenly Vertue and Power of him that hath called and tranſlated us from Darkneſs into his marvelous Light, and turned from Satans Power to his own Holy, Pure and Living Power, in which we are enabled to do good Works, new created of God in Chriſt Jeſus unto good Works, that we may walk therein, in which if we are ſound walking and doing the Works of God, we ſhall never fall again; for ſo an entrance ſhall be miniſtred unto us abundantly, into the Everlaſting Kingdom of our Lord and Saviour Jeſus Chriſt, who is the true Light, which lights every man that comes into the World, in which heavenly and divine Light, we daily receive Life, Ver<g ref="char:EOLhyphen"/>tue and Power, to eſcape the Corruption that is in the World through Luſt, and to live Soberly, Righteouſly and Godly in this preſent World, to the Honour and Praiſe of him that hath called us to Glory and Vertue. For this is the very end of the heavenly, living, powerful Appearance of our God in the midſt of us, that in and through the heavenly Power of his Son Chriſt Jeſus revealed in us, in his divine, heavenly Light, Life and Spi<g ref="char:EOLhyphen"/>rit, he might redeem us from all Iniquity, and purifie unto him<g ref="char:EOLhyphen"/>ſelf a peculiar People, zealou<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> unto good Works; and that ſo out of the Mouths of <hi>Babes</hi> and <hi>Sucklings</hi> he may perfect Praiſes for his Name. Let us therefore always be found in Well-doing, <hi>that our Light may ſhine before men, that they may ſee our good Works, and glorifie our Father which is in Heaven, who dwells in the Light, and is Light, in which, if we walk therein, we have fellowſhip with him, and one with another, and the Blo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>d of Jeſus Chriſt his Son, which cleanſes us from all Sins</hi> is inwardly known and felt, and the true Fellowſhip with the F<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>her, and his Son Jeſus Chriſt comes to be witneſſed, Righteouſneſs and Ho<g ref="char:EOLhyphen"/>lineſs is ſhewn forth in our Lives and Converſation by which our heavenly Father comes to be praiſed and glorified. For herein is our heavenly Father of his Children glorified, when they bring forth much Fruit of the Spirit, which is in all Good<g ref="char:EOLhyphen"/>neſs, and Righteouſneſs, and Truth, always proving and doing what is acceptable unto the Lord; to whom be Glory and Ho<g ref="char:EOLhyphen"/>nour
+<pb n="13" facs="tcp:100778:7"/>Praiſes and Hallelujah, Wiſdom and Dominion from my Soul, in the living Senſe of his great Love and tender Mercies, now henceforth forever and ever, <hi>Amen, Amen.</hi>
+                  </p>
+                  <closer>
+                     <signed>
+                        <hi>Teſtified by me</hi> J. M</signed>
+                     <date>The 5th of the 5th Moneth 1679.</date>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>WHen I conſider the Goodneſs, Mercy and Love of Almighty God to the Sons and Daughters of Men, ſo largely manifeſted, and ſuited to every Capacity and Condi<g ref="char:EOLhyphen"/>tion to this end and purpoſe, that all, even from the leaſt to the greateſt, may be made ſenſible and living Monuments of his wonderful Work, which he hath been carrying on in all Ages leſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> or more; but now in this latter Age of the World, is cut<g ref="char:EOLhyphen"/>ting the Work ſhort in Righteouſneſs; I ſee it clearly in the Light of the Lord; for which my S<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ul and Heart is overcome with Praiſes and Thankſgivings to him, who (I ſee) takes pleaſure to dwell with the lowly in Heart, and that are willing to follow, him whitherſoever he in his<g ref="char:punc">▪</g> Requirings may lead; Glory to his bleſſed Name forever.</p>
+            <p>I ſay, the conſideration of the Lord's wonderful Dealing with people, but more eſpecially with the Young Ones in our Fami<g ref="char:EOLhyphen"/>ly, conſtrains me at this time to open my Mouth, in my ſmall Meaſure, to declare of his Wonderful and Soul-raviſhing Vir<g ref="char:EOLhyphen"/>tue, livingly witneſſed to, in my Meaſure, and alſo am an Eye and Ear-Witneſs, but which is more, I find it ſealed in my heart, that the Lord hath begun a bleſſed Work in and among the Younger ſort, ſo that I can ſay in Truth, <hi>The Lord hath been here,</hi> the bleſſed Effects whereof do ſufficiently declare it: Oh! how is my Soul overjoy'd when I ſee that wild Nature, which bore rule in ſome, changed and brought under, ſo that I may juſtly ſay with the Prophet, and do witneſs the ſame, both in my own particular, as alſo I declare it on the behalf of the Children, That in ſome <hi>I ſee inſtead of the Thorns comes up the Fir-tree, and
+<pb n="14" facs="tcp:100778:8"/>inſtead of the Bryar comes up the Myrtle tree, and it is for the Lord a Name, for an Everlaſting Sign that ſhall not be cut off.</hi> This hath been the End and Tendency of all the Upright hearted Ones in their Labour and daily Exerciſe in this Family, who are more nearly concerned in them. And, Oh! let all Heart<g ref="char:punc">▪</g> joyn with me at this time, and at all times, to Praiſe and Extol the God of all Goodneſs, who in his Love hath given us an Earneſt of our Deſires, which is more to us than Thouſands of Silver or Gold! This the Lord hath been bringing to paſs for ſeveral years paſt by his Almighty Power and Out-ſtretches Arm inviſibly in the Hearts of the Young Ones, and now is more mani<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſtly begun to ſhew forth his Power, to the melting of the Rocky-hearted, and tendring of them into Tears, which was livingly witneſſed to by many, who felt the Power of the Almighty to overſhadow them, in a Wonderful and Soul raviſhing manner, at our fourth day's Meeting in <hi>Waltham. Abby;</hi> ſo that in the Senſe of the good<g ref="char:EOLhyphen"/>neſs of the Lord tendred to my Soul, &amp; the Souls of the Children there preſent, I was broken into Tears, having a deep ſenſe of the Work of the Lord in my own particular to work in my Heart; as alſo, I was overcome with Joy to feel the Lord's Power ſo won<g ref="char:EOLhyphen"/>derfully to work on the Children Minds, that they were melted and broken to the Amazement of many there preſent, who never ſaw ſuch a Day, nor witneſſed the Lord's Power to change them in their Minds: Oh! but what Joy? what comfort? what Satisfaction unutterable was miniſtred to them, who waited up<g ref="char:EOLhyphen"/>on the Lord for this, to ſee their Expectation anſwered in this Matter? what greater Joy could be afforded? ſurely none.</p>
+            <p>I can truly ſay, it was more to me (I hope to my dying Day never to forget it) then all Viſible or Created Comforts whatſo<g ref="char:EOLhyphen"/>ever. And ſo as the Lord did in a wonderful manner break forth in his Living Power upon the 4th day, being the 4th day of the 4th Moneth, ſo we have witneſſed ſince, and do witneſs daily <hi>(Praiſes to our God for it)</hi> the ſame Arm of Power to work in our Family-Meetings; ſo that forſome Nights we have gone to Bed with the Tears in our Eyes, being filled with the Love of ſo tender and merciful a Father, who thus had viſited us in his love, and filled our Hearts with unexpreſſible Joy: And this I ſay more
+<pb n="15" facs="tcp:100778:8"/>on the behalf of the Children, that ſome have been ſo livingly re<g ref="char:EOLhyphen"/>freſhed in our Evening-Meetings, that after they have been in Bed, their Sleep hath been taken from them for ſeveral hours to<g ref="char:EOLhyphen"/>gether, and their Souls have been filled with Praiſes and Thanks<g ref="char:EOLhyphen"/>givings more then could be uttered.</p>
+            <p>This I was conſtrained to ſay for the Lord, that he is no hard Maſter, that he takes no pleaſure in the Death of Sinners, but thus even in our day, as of Old, ſo fatherly, tenderly, and condeſcendingly he deals with People, even with the tender<g ref="char:EOLhyphen"/>aged, as to accommodate himſelf in his appearance, to their Ca<g ref="char:EOLhyphen"/>pacities, that they may feel him at work in their inward parts, who worketh all his Childrens work in them and for them, to the everlaſting renown and praiſe of his worthy Name forever.</p>
+            <p>Now let all be invited hereby to bow and ſubmit their Necks to the Yoke of Chriſt, and let them be made willing to take it upon them; for truly it is light to them that are made willing in the day of his mighty Power. Further, let me intreat all who have been ſharers with me in this late and continued Heart<g ref="char:EOLhyphen"/>breaking-Power, to walk worthy of the ſame, that we together may paſs the time of our ſojourning here in fear, that in the end when we ſhall lay down theſe Tabernacles, we may be admitted unto the full Fruition and compleat Enjoyment of his favour, who hath called us, and that very early, whoſe favour is better then Life, whereof of late we have had a larg earneſt, to the refreſhing of our Souls, and the eſtabliſhing of them in his fear, Everlaſt<g ref="char:EOLhyphen"/>ing Praiſes, Glory, and Renown, be ſounded forth unto our bountiful Lord and Maſter Chriſt Jeſus, World without End, <hi>Amen.</hi>
+            </p>
+            <closer>
+               <signed>A. PATERSONE.</signed>
+            </closer>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
